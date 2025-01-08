@@ -59,7 +59,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 1. Clone o repositório:  
  ```bash
  git clone https://github.com/Lucascfsb/Front-End-GoBarber-ReactJS
- cd web-GoBarber
  ```
 Instale as dependências:
 
