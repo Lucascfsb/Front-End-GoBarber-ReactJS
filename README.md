@@ -54,11 +54,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 - **Node.js** (v16 ou superior)
 - **Yarn** (ou npm)
-- API do GoBarber rodando no backend ([Instruções aqui](https://github.com/LucasCFS/node-GoBarber))
+- API do GoBarber rodando no backend ([Instruções aqui](https://github.com/Lucascfsb/node-GoBarber))
 
 1. Clone o repositório:  
  ```bash
- git clone https://github.com/seu-usuario/web-GoBarber.git
+ git clone https://github.com/Lucascfsb/Front-End-GoBarber-ReactJS
  cd web-GoBarber
  ```
 Instale as dependências:
