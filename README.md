@@ -8,7 +8,6 @@ O **GoBarber** é uma aplicação voltada para agendamentos de serviços de barb
 
 A aplicação web do **GoBarber** oferece uma interface moderna e responsiva para:
 
-<<<<<<< HEAD
 - **Clientes:**
   - Realizar login e cadastro.
   - Visualizar horários disponíveis para agendamentos.
@@ -18,17 +17,6 @@ A aplicação web do **GoBarber** oferece uma interface moderna e responsiva par
 - **Prestadores de Serviços:**
   - Visualizar agendamentos diários.
   - Gerenciar sua agenda.
-=======
-- **Clientes:**  
-  - Realizar login e cadastro.  
-  - Visualizar horários disponíveis para agendamentos.  
-  - Agendar serviços com prestadores.  
-  - Consultar agendamentos futuros e passados.  
-
-- **Prestadores de Serviços:**  
-  - Visualizar agendamentos diários.  
-  - Gerenciar sua agenda.  
->>>>>>> 1e0260a1eadf5449631e30134dd4f29b1498b4e8
 
 ---
 
@@ -36,7 +24,6 @@ A aplicação web do **GoBarber** oferece uma interface moderna e responsiva par
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
-<<<<<<< HEAD
 - **[React.js](https://reactjs.org/)** para construção da interface do usuário.
 - **[TypeScript](https://www.typescriptlang.org/)** para tipagem estática no JavaScript.
 - **[Axios](https://axios-http.com/)** para comunicação com a API.
@@ -46,17 +33,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 - **[Unform](https://unform.dev/)** para manipulação de formulários.
 - **[React Toastify](https://fkhadra.github.io/react-toastify/)** para exibição de notificações.
 - **[Polished](https://polished.js.org/)** para manipulação de cores na estilização.
-=======
-- **[React.js](https://reactjs.org/)** para construção da interface do usuário.  
-- **[TypeScript](https://www.typescriptlang.org/)** para tipagem estática no JavaScript.  
-- **[Axios](https://axios-http.com/)** para comunicação com a API.  
-- **[Styled-components](https://styled-components.com/)** para estilização da aplicação.  
-- **[React Router DOM](https://reactrouter.com/)** para gerenciamento de rotas.  
-- **[Yup](https://github.com/jquense/yup)** para validação de formulários.  
-- **[Unform](https://unform.dev/)** para manipulação de formulários.  
-- **[React Toastify](https://fkhadra.github.io/react-toastify/)** para exibição de notificações.  
-- **[Polished](https://polished.js.org/)** para manipulação de cores na estilização.  
->>>>>>> 1e0260a1eadf5449631e30134dd4f29b1498b4e8
 
 ---
 
@@ -76,26 +52,15 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 ### Pré-requisitos:
 
-<<<<<<< HEAD
 - **Node.js** (v16 ou superior)
 - **Yarn** (ou npm)
 - API do GoBarber rodando no backend ([Instruções aqui](https://github.com/LucasCFS/node-GoBarber))
 
-### Passo a passo:
-
-1. Clone o repositório:
-=======
-- **Node.js** (v16 ou superior)  
-- **Yarn** (ou npm)  
-- API do GoBarber rodando no backend ([Instruções aqui](https://github.com/LucasCFS/node-GoBarber))  
-
-### Passo a passo:
-
 1. Clone o repositório:  
->>>>>>> 1e0260a1eadf5449631e30134dd4f29b1498b4e8
-   ```bash
-   git clone https://github.com/seu-usuario/web-GoBarber.git
-   cd web-GoBarber
+ ```bash
+ git clone https://github.com/seu-usuario/web-GoBarber.git
+ cd web-GoBarber
+ ```
 Instale as dependências:
 
 ```bash
